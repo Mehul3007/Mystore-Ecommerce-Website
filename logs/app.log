@@ -1,0 +1,64 @@
+[2026-07-19T05:42:40.889Z] [INFO] 🚀 Server running on http://localhost:5000 [development]
+[2026-07-19T05:43:07.817Z] [WARN] GET /api/wishlist - Invalid or expired token
+[2026-07-19T05:43:43.408Z] [ERROR] Email send failed to vartak0069@gmail.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 5a478bee46e88-3142a210571sm23684925eec.31 - gsmtp
+[2026-07-19T05:45:24.519Z] [ERROR] POST /api/checkout/initiate - undefined
+[2026-07-19T05:45:25.648Z] [ERROR] POST /api/checkout/initiate - undefined
+[2026-07-19T05:45:31.557Z] [ERROR] POST /api/checkout/initiate - undefined
+[2026-07-19T05:45:32.120Z] [ERROR] POST /api/checkout/initiate - undefined
+[2026-07-19T05:45:32.304Z] [ERROR] POST /api/checkout/initiate - undefined
+[2026-07-19T05:45:32.712Z] [ERROR] POST /api/checkout/initiate - undefined
+[2026-07-19T05:45:33.253Z] [ERROR] POST /api/checkout/initiate - undefined
+[2026-07-19T05:45:33.423Z] [ERROR] POST /api/checkout/initiate - undefined
+[2026-07-19T05:45:38.850Z] [ERROR] POST /api/checkout/initiate - undefined
+[2026-07-19T05:45:39.373Z] [ERROR] POST /api/checkout/initiate - undefined
+[2026-07-19T05:45:39.767Z] [ERROR] POST /api/checkout/initiate - undefined
+[2026-07-19T05:45:40.294Z] [ERROR] POST /api/checkout/initiate - undefined
+[2026-07-19T05:45:40.373Z] [ERROR] POST /api/checkout/initiate - undefined
+[2026-07-19T05:45:40.954Z] [ERROR] POST /api/checkout/initiate - undefined
+[2026-07-19T05:45:40.994Z] [ERROR] POST /api/checkout/initiate - undefined
+[2026-07-19T05:45:41.503Z] [ERROR] POST /api/checkout/initiate - undefined
+[2026-07-19T05:46:14.086Z] [ERROR] POST /api/checkout/initiate - undefined
+[2026-07-19T05:46:15.557Z] [ERROR] POST /api/checkout/initiate - undefined
+[2026-07-19T05:46:27.512Z] [ERROR] POST /api/checkout/initiate - undefined
+[2026-07-19T05:46:28.634Z] [ERROR] POST /api/checkout/initiate - undefined
+[2026-07-19T05:47:11.888Z] [ERROR] GET /api/products?category=electronics - invalid input syntax for type uuid: "electronics"
+[2026-07-19T05:47:16.289Z] [ERROR] GET /api/products?category=fashion - invalid input syntax for type uuid: "fashion"
+[2026-07-19T06:24:40.622Z] [ERROR] POST /api/checkout/initiate - undefined
+[2026-07-19T06:24:41.698Z] [ERROR] POST /api/checkout/initiate - undefined
+[2026-07-19T06:25:27.843Z] [INFO] 🚀 Server running on http://localhost:5000 [development]
+[2026-07-21T16:20:58.873Z] [INFO] 🚀 Server running on http://localhost:5000 [development]
+[2026-07-21T16:21:31.613Z] [WARN] POST /api/auth/login - Invalid email or password
+[2026-07-21T16:21:34.182Z] [WARN] POST /api/auth/login - Invalid email or password
+[2026-07-21T16:22:38.429Z] [WARN] POST /api/auth/login - Invalid email or password
+[2026-07-21T16:22:40.506Z] [WARN] POST /api/auth/login - Invalid email or password
+[2026-07-21T16:22:41.889Z] [WARN] POST /api/auth/login - Invalid email or password
+[2026-07-21T16:23:26.140Z] [WARN] POST /api/auth/register - An account with this email already exists
+[2026-07-21T16:23:39.020Z] [WARN] POST /api/auth/register - An account with this email already exists
+[2026-07-21T16:24:06.947Z] [WARN] POST /api/auth/register - An account with this email already exists
+[2026-07-21T16:24:08.138Z] [WARN] POST /api/auth/register - An account with this email already exists
+[2026-07-21T16:24:22.142Z] [WARN] POST /api/auth/register - An account with this email already exists
+[2026-07-21T16:26:21.155Z] [WARN] GET /api/orders - Invalid or expired token
+[2026-07-21T16:26:23.355Z] [WARN] GET /api/wishlist - Invalid or expired token
+[2026-07-21T16:27:48.643Z] [WARN] GET /api/orders - Invalid or expired token
+[2026-07-21T16:27:50.602Z] [WARN] GET /api/wishlist - Invalid or expired token
+[2026-07-21T16:28:03.731Z] [WARN] GET /api/wishlist - Invalid or expired token
+[2026-07-22T03:19:06.067Z] [INFO] 🚀 Server running on http://localhost:5000 [development]
+[2026-07-22T03:21:11.824Z] [WARN] POST /api/auth/register - An account with this email already exists
+[2026-07-22T03:23:45.614Z] [WARN] POST /api/addresses - Please provide a valid 10-digit phone number
+[2026-07-22T03:23:48.334Z] [WARN] POST /api/addresses - Please provide a valid 10-digit phone number
+[2026-07-22T05:37:05.126Z] [INFO] 🚀 Server running on http://localhost:5000 [development]
+[2026-07-22T05:38:18.251Z] [WARN] POST /api/auth/login - Invalid email or password
+[2026-07-22T05:38:20.039Z] [WARN] POST /api/auth/login - Invalid email or password
+[2026-07-22T05:38:20.729Z] [WARN] POST /api/auth/login - Invalid email or password
+[2026-07-22T05:38:20.874Z] [WARN] POST /api/auth/login - Invalid email or password
+[2026-07-22T05:38:22.140Z] [WARN] POST /api/auth/login - Invalid email or password
+[2026-07-22T05:38:22.390Z] [WARN] POST /api/auth/login - Invalid email or password
+[2026-07-22T05:38:23.247Z] [WARN] POST /api/auth/login - Invalid email or password
+[2026-07-22T05:48:43.832Z] [WARN] POST /api/addresses - Please provide a valid 10-digit phone number
+[2026-07-22T08:27:30.226Z] [WARN] POST /api/coupons/validate - Invalid or inactive coupon
+[2026-07-22T08:27:42.049Z] [WARN] POST /api/coupons/validate - Invalid or inactive coupon
+[2026-07-22T08:27:45.071Z] [WARN] POST /api/coupons/validate - Invalid or inactive coupon
+[2026-07-22T08:28:22.650Z] [WARN] POST /api/coupons/validate - Invalid or inactive coupon
+[2026-07-22T08:28:27.270Z] [WARN] POST /api/coupons/validate - Invalid or inactive coupon
+[2026-07-22T16:33:39.231Z] [ERROR] POST /api/auth/login - TypeError: fetch failed
