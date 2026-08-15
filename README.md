@@ -85,9 +85,3 @@ verify KYC on Razorpay - everything else in the code stays the same.
 | Gmail SMTP | Emails | Free |
 | In-memory cache | Caching (instead of Redis) | Free |
 | Local disk storage | File uploads (instead of S3) | Free |
-
-## 🌐 Live Demo
-
-> **Try WaveChat live:**
-
-## 🔗 [https://ecommerceapp-brown-xi.vercel.app/](https://ecommerceapp-brown-xi.vercel.app/)
